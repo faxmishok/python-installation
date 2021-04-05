@@ -5,9 +5,9 @@
 ## Table of Content
 - [Try running the provided script first](#try-running-the-provided-script-first)
 - [Check for installed python](#check-for-installed-python)
-- [Install Python 3.8 and pip3](#install-python-3.8-and-pip3)
-- [Install Python 2.7 and pip2](#install-python-2.7-and-pip2)
-- [Check for versions](#check-for-versions)
+- [Install Python 3 and pip3](#install-python-3-and-pip3)
+- [Install Python 2 and pip2](#install-python-2-and-pip2)
+- [Check if all are set](#check-if-all-are-set)
 
 
 ### Try running the provided script first
@@ -30,7 +30,7 @@ Python 3.8.5
 
 4. Assuming you are set until now, you can start doing the procedures as follows.
 
-### Install Python 3.8 and pip3
+### Install Python 3 and pip3
 First, as you already have the Python 3.8.5, you can start installing **pip3** by the below command:<br />
 ```sh
 sudo apt install python3-pip
@@ -46,7 +46,7 @@ This will print something similar to<br />
 Now that we have ```python3.8``` and ```pip3``` set, we should be able to move onto the next steps.<br />
 
 
-### Install Python 2.7 and pip2
+### Install Python 2 and pip2
 You can start installing Python 2 by typing
 ```sh
 sudo apt install python2
