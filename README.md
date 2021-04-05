@@ -1,4 +1,4 @@
-# python-installattion
+# python-installation
 
 ### This repo has been created for the correct installation of python2, python3, pip2 and pip3 all at the same time, same machine. Because there are still many scripts present that require Python 2, I decided to show the steps to achieve the correct installation for every necessary version of both python and pip <br />(Ubuntu, as of April, 2021).
 
